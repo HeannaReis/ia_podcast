@@ -52,14 +52,7 @@ O objetivo é mostrar que automação e IA podem inovar sem perder a humanidade.
 
 ## 🔊 Ouça o Episódio Piloto
 
-<p align="center">
-  <audio controls>
-    <source src="src/audio/episodio_piloto.mp4" type="audio/mpeg">
-    Seu navegador não suporta a reprodução de áudio.
-  </audio>
-</p>
-
-🎧 [Ouvir Episódio Piloto (link direto)](src/audio/episodio_piloto.mp4)
+🎧 [Ouvir Episódio Piloto (link direto)](src/audio/episodio_piloto.mp3)
 
 ---
 
