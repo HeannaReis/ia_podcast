@@ -74,7 +74,7 @@ Os prompts utilizados na criação do projeto estão disponíveis na pasta [`/pr
 - [01_criar_ideias.txt](./src/prompts/01_criar_ideias.txt)  
 - [02_titulo.txt](./src/prompts/02_titulo.txt)  
 - [03_roteiro.txt](./src/prompts/03_roteiro.txt)  
-- [04_gerar_capa.txt](./src/prompts/gerar_capa.txt)  
+- [04_gerar_capa.txt](./src/prompts/04_gerar_capa.txt)  
 
 ---
 
