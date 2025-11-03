@@ -1,0 +1,13 @@
+Você é um roteirista profissional de podcasts. 
+Escreva um roteiro de 3 minutos para o episódio “Entre o Código e a Consciência”, do podcast “O Engenheiro de Significados”. 
+Estruture o roteiro da seguinte forma: 
+1. Introdução (30 segundos) — Apresente o tema, dê contexto e crie uma conexão emocional. 
+2. Desenvolvimento (3 blocos de 1m30s) — 
+- Bloco 1: A ponte entre o raciocínio humano e o pensamento da máquina. 
+- Bloco 2: Como as IAs aprendem a interpretar o mundo (significado e contexto). 
+- Bloco 3: O papel do engenheiro de IA como tradutor entre mundos. 
+
+3. Conclusão (1 minuto) — Feche com uma reflexão e convite para o próximo episódio. 
+Tom: Calmo, reflexivo e com leveza. 
+Linguagem fluida, sem jargões técnicos em excesso. 
+Inspire curiosidade e empatia.
