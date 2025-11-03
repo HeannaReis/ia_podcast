@@ -52,7 +52,7 @@ O objetivo é mostrar que automação e IA podem inovar sem perder a humanidade.
 
 ## 🔊 Ouça o Episódio Piloto
 
-🎧 [Ouvir Episódio Piloto (link direto)](src/audio/episodio_piloto.mp3)
+🎧 [Ouvir Episódio Piloto (link direto)](./src/audio/episodio_piloto.mp3)
 
 ---
 
@@ -69,12 +69,12 @@ O objetivo é mostrar que automação e IA podem inovar sem perder a humanidade.
 ---
 
 ## 🧠 Prompts Utilizados
-Os prompts utilizados na criação do projeto estão disponíveis na pasta [`/prompts`](./prompts):
+Os prompts utilizados na criação do projeto estão disponíveis na pasta [`/prompts`](./src/prompts):
 
-- [01_criar_ideias.txt](./prompts/01_criar_ideias.txt)  
-- [02_titulo.txt](./prompts/02_titulo.txt)  
-- [03_roteiro.txt](./prompts/03_roteiro.txt)  
-- [04_gerar_capa.txt](./prompts/gerar_capa.txt)  
+- [01_criar_ideias.txt](./src/prompts/01_criar_ideias.txt)  
+- [02_titulo.txt](./src/prompts/02_titulo.txt)  
+- [03_roteiro.txt](./src/prompts/03_roteiro.txt)  
+- [04_gerar_capa.txt](./src/prompts/gerar_capa.txt)  
 
 ---
 
